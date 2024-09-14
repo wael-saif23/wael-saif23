@@ -12,6 +12,7 @@
 🤓 Always learning new things.
 
 💬 Ask me about Flutter, Dart, Firebase , Hive , MVVM , MVC , responsive and adaptive UI design.
+
 🤓 im work freelance and i can do any mobile application do you need .
 
 🤝 I’m looking to collaborate with other developers to build great stuff.
@@ -28,8 +29,10 @@
 ## 💻Tech Stack &Tools:
 <div align="center">
   <a href="#">
-     <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,cpp,java,python,androidstudio,vscode,photoshop,xd,figma,git&theme=dark" />
-    <img src="https://skillicons.dev/icons?i=github,postman,googlecloud,mysql,sqlite,html,css,opencv,unity,discord&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=dart,flutter,firebase&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,postman&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=xd,figma,&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=photoshop,ae,autocad&theme=dark" />
   </a>
  
 </div>
