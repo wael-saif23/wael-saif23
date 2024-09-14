@@ -17,7 +17,7 @@
 
 🤝 I’m looking to collaborate with other developers to build great stuff.
 
-📧 Feel free to reach me out mahmoudshahen658@gmail.com
+📧 Feel free to reach me out ws.mywork@gmail.com
 
 📄 Documenting the entire journey.
 
