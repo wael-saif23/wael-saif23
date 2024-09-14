@@ -63,6 +63,7 @@ const MahmoudShahin = {
 - [Best And Complete Flutter Course For Beginners](https://www.udemy.com/course/best-and-complete-flutter-course-for-beginners)
 - [Flutter Advanced Course Bloc and MVVM Pattern in Arabic in 2023](https://www.udemy.com/course/flutter-bloc-pattern-from-zero-to-hero-in-arabic)
 - [Mastering Flutter: Responsive & Adaptive UI Design](https://www.udemy.com/course/mastering-flutter-responsive-adaptive-ui-design-arabic)
+- [Hive Flutter](https://www.youtube.com/watch?v=dtFhXz2JHA0&list=PL9b6wgodx-C3VRvma06Lz6Y7-fr5fMy6K)
 
 
 
@@ -75,16 +76,16 @@ const MahmoudShahin = {
 
 
 <p align="center">
-    <a href="https://github.com/MahmoudShahin/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="a7medAlqal3awyi's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=a7medAlqal3awyi&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/wael-saif23/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="wael-saif23's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=wael-saif23&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
   
 </p>
 
-<a href="https://github.com/MahmoudShahin/github-readme-stats">
-    <img align="left"  alt="mahmoudshahin1's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mahmoudshahin1&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-<a href="https://github.com/mahmoudshahin1/github-readme-stats">
-    <img align="right" alt="mahmoudshahin1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudshahin1&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/wael-saif23/github-readme-stats">
+    <img align="left"  alt="wael-saif23's Github Stats" src="https://github-readme-stats.vercel.app/api?username=wael-saif23&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/wael-saif23/github-readme-stats">
+    <img align="right" alt="wael-saif23's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wael-saif23&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 <br>
 
 
