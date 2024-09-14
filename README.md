@@ -36,31 +36,33 @@
   
 ## 💌 Connect with me:
 <p align="center">
-<a href = "https://mahmoudshahen658@gmail.com/"><img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="50" height="50" /></a>
-<a href ="(https://t.me/Mahmoudshahin1)"><img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" width="50" height="50" /></a>
-<a href = "https://www.linkedin.com/in/mahmoud-shahin-6492a2227/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="50" height="50" /></a>
-<a href = "https://www.facebook.com/mahmodshahen123/"><img src="https://img.icons8.com/fluency/48/000000/facebook.png" width="50" height="50" /></a>
-<img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" width="50" height="50" /></a>
-<img src="https:mahmoudshahen8413//img.icons8.com/doodle/48/fa314a/discord-logo.png" width="50" height="50" /></a>
+<a href = "https://ws.mywork@gmail.com/"><img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="50" height="50" /></a>
+<a href ="(https://t.me/Wael_Saif87)"><img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" width="50" height="50" /></a>
+<a href = "https://www.linkedin.com/in/wael-saif-ab58a5175/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="50" height="50" /></a>
+<a href = "https://www.facebook.com/profile.php?id=100088000014161&mibextid=kFxxJD"><img src="https://img.icons8.com/fluency/48/000000/facebook.png" width="50" height="50" /></a>
+<a href = "https://discordapp.com/users/1086841327523729448"><img src="https://img.icons8.com/fluency/48/000000/discord.png" width="50" height="50" /></a>
+<a href = "https://wa.me/201010770272?text=Welcome%20!%20I'm%20excited%20to%20connect%20with%20you%20on%20WhatsApp."><img src="https://img.icons8.com/fluency/48/000000/whatsapp.png" width="50" height="50" /></a>
 </p>
 
 ## 👨‍💻A little more about me...  
 
 ```javascript
 const MahmoudShahin = {
-  code: [Dart, Java, C++, Python , OPP, DSA],
-  askMeAbout: ["Flutter", "OPP", "Dart", "SOLID","cleanArctiture" , "DesignPattern"],
- 
-                      },
+  code: [Dart, OPP],
+  askMeAbout: ["Flutter", "OPP", "Dart", "SOLID", "DesignPattern", MVVM, MCV,
+                HIVE, SHARED PREFERENCE, RESPONSIVE AND ADAPTIVE DESIGN],
+  },
 }
 ```
 
-## 🏆 My Certifications :arrow_down:
+## 🏆 My Certifications & online courses :arrow_down:
 
-- [The Complete 2022 Flutter & Dart Development Course](https://www.udemy.com/certificate/UC-bc1a572b-0acc-4c6f-9850-7f4cf6eb29a2/)
-- [Flutter Advanced Course Bloc and MVVM Pattern](https://www.udemy.com/certificate/UC-68c20b06-37db-4038-8f04-272af0158ecc/)
-- [Flutter Clean Architecture](https://www.udemy.com/certificate/UC-4adb47dc-3a0e-4d50-ac9a-30f675b9e7b7/)
-- [international computer driving license](https://programs.edraak.org/learn/specialization/icdlsp-vv2/issue_certificate/?lang=en)
+- [Dart Fundamentals](https://almdrasa.com/tracks/mobile-development/courses/dart-fundamentals)
+- [Dart Deep Dive](https://almdrasa.com/tracks/mobile-development/courses/dart-deep-dive)
+- [Mastering Programming a Comprehensive Course In Arabic](https://www.udemy.com/course/mastering-programming-a-comprehensive-course-in-arabic/)
+- [Best And Complete Flutter Course For Beginners](https://www.udemy.com/course/best-and-complete-flutter-course-for-beginners)
+- [Flutter Advanced Course Bloc and MVVM Pattern in Arabic in 2023](https://www.udemy.com/course/flutter-bloc-pattern-from-zero-to-hero-in-arabic)
+- [Mastering Flutter: Responsive & Adaptive UI Design](https://www.udemy.com/course/mastering-flutter-responsive-adaptive-ui-design-arabic)
 
 
 
