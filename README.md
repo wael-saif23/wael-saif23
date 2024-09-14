@@ -31,7 +31,7 @@
   <a href="#">
     <img src="https://skillicons.dev/icons?i=dart,flutter,firebase&theme=dark" />
     <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,postman&theme=dark" />
-    <img src="https://skillicons.dev/icons?i=xd,figma,&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=xd,figma&theme=dark" />
     <img src="https://skillicons.dev/icons?i=photoshop,ae,autocad&theme=dark" />
   </a>
  
