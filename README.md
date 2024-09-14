@@ -37,7 +37,7 @@
 ## 💌 Connect with me:
 <p align="center">
 <a href = "https://ws.mywork@gmail.com/"><img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="50" height="50" /></a>
-<a href ="(https://t.me/Wael_Saif87)"><img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" width="50" height="50" /></a>
+<a href = "https://t.me/Wael_Saif87"><img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" width="50" height="50" /></a>
 <a href = "https://www.linkedin.com/in/wael-saif-ab58a5175/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="50" height="50" /></a>
 <a href = "https://www.facebook.com/profile.php?id=100088000014161&mibextid=kFxxJD"><img src="https://img.icons8.com/fluency/48/000000/facebook.png" width="50" height="50" /></a>
 <a href = "https://discordapp.com/users/1086841327523729448"><img src="https://img.icons8.com/fluency/48/000000/discord.png" width="50" height="50" /></a>
