@@ -1,4 +1,4 @@
-<h2> Hi, I'm Wael saif! 👋</h2>
+<h2> Hi, I'm Wael Saif! 👋</h2>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
