@@ -11,7 +11,7 @@
 
 🤓 Always learning new things.
 
-💬 Ask me about Flutter, Dart, Firebase , Hive , MVVM , MVC , responsive and adaptive UI design.
+💬 Ask me about Flutter, Dart, Firebase , Hive , MVVM , MVC , Responsive And Adaptive UI Design.
 
 🤓 im work freelance and i can do any mobile application do you need .
 
