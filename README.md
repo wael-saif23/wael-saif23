@@ -49,9 +49,9 @@
 
 ```javascript
 const waelSaif = {
-  code: [Dart, OPP],
-  askMeAbout: ["Flutter", "OOP", "Dart", "SOLID", "Design Pattern", MVVM, MCV,
-                HIVE, Shared Preference, Responsive And Adaptive Design, Flutter Localization],
+  code: [' Dart ',' OOP '],
+  askMeAbout: [' Flutter ',' OOP ',' Dart ',' SOLID ',' Design Pattern ',' MVVM ',' MCV ',
+               ' HIVE ',' Shared Preference ',' Responsive And Adaptive Design ',' Flutter Localization '],
   },
 }
 ```
