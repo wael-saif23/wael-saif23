@@ -65,7 +65,7 @@ const waelSaif = {
 - [Flutter Advanced Course Bloc and MVVM Pattern in Arabic in 2023](https://www.udemy.com/course/flutter-bloc-pattern-from-zero-to-hero-in-arabic)
 - [Mastering Flutter: Responsive & Adaptive UI Design](https://www.udemy.com/course/mastering-flutter-responsive-adaptive-ui-design-arabic)
 - [Hive Flutter](https://www.youtube.com/watch?v=dtFhXz2JHA0&list=PL9b6wgodx-C3VRvma06Lz6Y7-fr5fMy6K)
-- [Git & GitHub](https://almdrasa.com/tracks/programming-foundations/courses/git-github/)
+- [Git & GitHub](https://almdrasa.com/tracks/programming-foundations/courses/git-github/)(https://www.youtube.com/playlist?list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF)
 
 
 
