@@ -50,7 +50,7 @@
 ```javascript
 const waelSaif = {
   code: [' Dart ',' OOP '],
-  askMeAbout: [' Flutter ',' OOP ',' Dart ',' SOLID ',' Design Pattern ',' MVVM ',' MCV ',
+  askMeAbout: [' Flutter ',' OOP ',' Dart ',' SOLID ',' Design Pattern ',' MVVM ',' MVC ',
                ' HIVE ',' Shared Preference ',' Responsive And Adaptive Design ',' Flutter Localization ',
                ' Git ',' GitHub ',' flavors in Flutter '],
   },
