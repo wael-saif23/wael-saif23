@@ -7,7 +7,7 @@
 <img src="https://github.com/lambiengcode/lambiengcode/blob/main/gif/dash.gif?raw=true" width="340px" align="right" alt="Computer">
 <p
 
-🌱 I’m currently learning **Advanced Flutter & Design Patterns & Animation in Flutter & Other Topics for improve my skills .**
+🌱 I’m currently learning **Advanced Flutter & Design Patterns & Animation in Flutter & Flutter Notifications & Google maps &Other Topics for improve my skills .**
 
 🤓 Always learning new things.
 
